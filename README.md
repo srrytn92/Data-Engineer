@@ -1,7 +1,5 @@
-# Rode to Data Engineer
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
+# Rode to Data Engineer 2.0
+
 
 ✔️ CH0 Introduction to Data Engineering — Python & SQL <br />
 Basic of Data Engineer <br />

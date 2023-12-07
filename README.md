@@ -1,4 +1,4 @@
-# Rode to Data Engineer 2.0
+# Rode to Data Engineer
 
 
 ✔️ CH0 Introduction to Data Engineering — Python & SQL <br />
@@ -54,4 +54,4 @@ Connect Data Studio with data sources
 Dimension and Metric in chart
  - [x] Workshop 6: Building dashboard with Google Data Studio (Data from BigQuery)
 -------------------------------------------------------------------------------------------------------------------------------------------------
- ### <ins>Badge</ins> : [Certified Road to Data Engineer 2.0](https://www.dropbox.com/scl/fi/eukdgv2a1hnkun4vo30vs/certificate.pdf?rlkey=f1gi56g5z7vaar3dsuhymgu3g&dl=0)
+ ### <ins>Badge</ins> : [Certified Road to Data Engineer](https://www.dropbox.com/scl/fi/eukdgv2a1hnkun4vo30vs/certificate.pdf?rlkey=f1gi56g5z7vaar3dsuhymgu3g&dl=0/to/img.png)

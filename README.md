@@ -50,7 +50,7 @@ The Road to Data Engineer course is a course that will lay the groundwork for yo
 - Design schema in BigQuery
  - [x] Workshop 5: Building Data Warehouse with BigQuery (feeding data from AirFlow)
 -------------------------------------------------------------------------------------------------------------------------------------------------
-### CH6 Report & Dashboard
+### CH6 Data visualization
 - Data visualization
 - Google Data Studio
 - Connect Data Studio with data sources

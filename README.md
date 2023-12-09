@@ -1,5 +1,5 @@
 # Road to Data Engineer
-&nbsp;<br>
+
 The Road to Data Engineer course is a course that lays the foundation for Data Engineer knowledge.
 &nbsp;<br>
 &nbsp;<br>

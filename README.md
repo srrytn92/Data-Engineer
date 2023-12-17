@@ -13,7 +13,7 @@ The Road to Data Engineer course is a course that lays the foundation for Data E
 - Data Pipeline (ETL/ELT)
 - Data Pipeline designing
 - Data Integration
- - [x] Workshop 1: Data Collection with Python (Google Colab), Pandas, REST API
+ - [x] [Workshop 1: Data Collection with Python (Google Colab), Pandas, REST API](https://github.com/srrytn92/Road-to-Data-Engineer/blob/main/CH%201%20Data%20Collection%20%26%20Workshop%201/Workshop1_Data_Collection.ipynb)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### CH2 Data Cleansing
 - Data Cleansing

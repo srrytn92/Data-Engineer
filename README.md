@@ -22,7 +22,7 @@ The Road to Data Engineer course is a course that lays the foundation for Data E
 - Handling Anomaly และ missing data
 - Distributed Data Processing
 - Concept of Apache Spark
- - [x] Workshop 2: Data Wrangling, Data Cleansing with Apache Spark (Colab and PySpark)
+ - [x] [Workshop 2: Data Wrangling, Data Cleansing with Apache Spark (Colab and PySpark)](https://github.com/srrytn92/Road-to-Data-Engineer/blob/main/CH%202%20Data%20Cleansing%20%26%20Workshop%202/Workshop2_Data_Cleansing_with_Spark%20.ipynb)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### CH3 Basic Cloud — Google Cloud
 - Cloud Computing concept with Google Cloud Platform (GCP)

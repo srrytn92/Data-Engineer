@@ -32,7 +32,7 @@ The Road to Data Engineer course is a course that lays the foundation for Data E
 - GCP (Google Cloud Platform) services
 - Data Processing and storage on cloud
 - Basic of Bash Command
- - [x] [Workshop 3: Data Storage with GCS](https://github.com/srrytn92/Road-to-Data-Engineer/tree/main/CH%203%20Basic%20Cloud%20%26%20Workshop%203)
+ - [x] [Workshop 3: Data Storage with GCS](https://github.com/srrytn92/Road-to-Data-Engineer/blob/main/CH%203%20Basic%20Cloud%20&%20Workshop%203/workshop3_basic_cloud.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### CH4 Data Pipeline Orchestration with Airflow
 - Data Pipeline Orchestration

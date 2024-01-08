@@ -15,7 +15,8 @@
  ![cp_file2](https://github.com/srrytn92/Road-to-Data-Engineer/assets/83905993/62e81cad-9be2-487f-983f-f2f4de23bde3)
 * 2.3 ใช้โค้ด Python ผ่าน Python SDK library <br />
 
-''''
+<pre>
+  <code class="language-python">
 
     from google.cloud import storage
 
@@ -92,4 +93,6 @@
             )
         else:
             print("Please input upload (u) or download (d)")
-''''
+
+  </code>
+</pre>

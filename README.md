@@ -55,7 +55,7 @@ The Road to Data Engineer course is a course that lays the foundation for Data E
 - Google Data Studio
 - Connect Data Studio with data sources
 - Dimension and Metric in chart
- - [x] Workshop 6: Building dashboard with Google Data Studio (Data from BigQuery)
+ - [x] [Workshop 6: Building dashboard with Google Data Studio (Data from BigQuery)](https://lookerstudio.google.com/s/pOB1hXGjqco)
 -------------------------------------------------------------------------------------------------------------------------------------------------
  ### <ins>Certificate</ins> : ![certificate](https://github.com/srrytn92/Rode-to-DE/assets/83905993/f892eb0b-0a84-4473-a8bd-1c43e0d8da12)
 

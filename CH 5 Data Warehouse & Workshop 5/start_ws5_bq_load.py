@@ -115,8 +115,8 @@ with DAG(
         bash_command="bq load \
             --source_format=CSV \
             --autodetect \
-            workshop5.audible_data1 \
-            gs://us-central1-workshop5-226a53df-bucket/data/output1.csv"
+            dataset.tablename \
+            gs://GCS_Bucket/data/filename.csv"
     )
 
     [t1, t2] >> t3 >> t4

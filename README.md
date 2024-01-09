@@ -41,7 +41,7 @@ The Road to Data Engineer course is a course that lays the foundation for Data E
 - DAG: Directed Acyclic Graph
 - Cloud Composer (GCP)
 - Create data pipeline with Apache Airflow
- - [x] Workshop 4: Automated Data Pipeline with Airflow
+ - [x] [Workshop 4: Automated Data Pipeline with Airflow](https://github.com/srrytn92/Road-to-Data-Engineer/blob/main/CH%204%20Data%20Pipeline%20Orchestration%20&%20Workshop%204/CH%204%20Data%20Pipeline%20Orchestration%20&%20Workshop%204.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### CH5 Data Warehouse with Google BigQuery
 - Data Warehouse

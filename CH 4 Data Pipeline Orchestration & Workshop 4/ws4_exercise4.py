@@ -75,11 +75,6 @@ with DAG(
     schedule_interval="@once",
     tags=["workshop"]
 ) as dag:
-
-    dag.doc_md = """
-    # Exercise4: Final DAG
-    ใน exercise นี้จะนำโค้ดที่เคยเขียนไว้ใน workshop1 มาทำให้เป็น pipeline บน Airflow [ทบทวนได้ที่นี่](https://colab.research.google.com/drive/1LQDVS0ayxFKF_ln-mc4CqLeayxzUKqZP?authuser=1)
-    """
     
     t1 = PythonOperator(
         task_id="get_data_from_mysql",
